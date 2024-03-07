@@ -1,4 +1,4 @@
-#🪴 ✧ Presti's Garden ✧
+# 🪴 ✧ Presti's Garden ✧
 
 <p> Uma breve descrição sobre o que esse projeto faz e para quem ele é </p>
 
