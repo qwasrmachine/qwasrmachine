@@ -3,8 +3,12 @@
 </div>
 
 <div display="flex" align-content="space-around" align-items="flex-start">
-  <div>Hello!</div>
-  <img src="https://i.pinimg.com/564x/83/6e/6b/836e6bdba6666a160138b7bd3d98af17.jpg" width=500/>
+  <div>
+    Hello!
+  </div>
+  <div>
+    <img src="https://i.pinimg.com/564x/83/6e/6b/836e6bdba6666a160138b7bd3d98af17.jpg" width=500/>
+  </div>
 </div>
 
 <p> Uma breve descrição sobre o que esse projeto faz e para quem ele é </p>
