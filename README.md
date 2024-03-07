@@ -2,15 +2,20 @@
   <h1>🪴 ✧ Presti's Garden ✧</h1>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=prestissimogarden&icon=6&color=2)](https://visitcount.itsvg.in)
 <div display="flex" flex-direction="row" align-content="space-around">
   <div>
-    <img src="https://i.pinimg.com/564x/83/6e/6b/836e6bdba6666a160138b7bd3d98af17.jpg" width=500/>
+✸ Element 1. <br>
+✸ Element 2. <br>
+✸ Element 3. <br>
+  </div>
+  <div>
+    <img src="https://i.pinimg.com/564x/83/6e/6b/836e6bdba6666a160138b7bd3d98af17.jpg" width=300/>
   </div>
 </div>
 
-- Element 1.
-- Element 2.
-- Element 3.
+---
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 <p> Uma breve descrição sobre o que esse projeto faz e para quem ele é </p>
 
