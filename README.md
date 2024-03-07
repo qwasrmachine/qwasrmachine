@@ -1,5 +1,5 @@
 <div align="center">
-<h1 font-size="20px">🪴 ✧ Presti's Garden ✧ </h1>
+<h1 font-size="25px">🪴 ✧ Presti's Garden ✧ </h1>
 </div>
 
 
