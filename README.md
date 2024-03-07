@@ -1,5 +1,8 @@
 <div align="center">
 <h1>🪴 ✧ Presti's Garden ✧</h1>
+<h3> 
+  <img src="https://i.pinimg.com/564x/83/6e/6b/836e6bdba6666a160138b7bd3d98af17.jpg" width="20" height="20" /> Technologies
+</h3>
 </div>
 
 
