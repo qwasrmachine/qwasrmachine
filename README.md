@@ -2,7 +2,7 @@
   <h1>🪴 ✧ Presti's Garden ✧</h1>
 </div>
 
-<div display="flex" align-content="space-around">
+<div display="flex" flex-direction="row" align-content="space-around">
   <div>
     - Element 1
     - Element 2
