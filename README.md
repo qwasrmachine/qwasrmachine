@@ -1,4 +1,4 @@
-# <p style="text-align: center;"> 🪴 ✧ Presti's Garden ✧ </p>
+#🪴 ✧ Presti's Garden ✧
 
 <p> Uma breve descrição sobre o que esse projeto faz e para quem ele é </p>
 
