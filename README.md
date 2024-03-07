@@ -3,13 +3,14 @@
 </div>
 
 <div display="flex" flex-direction="row" align-content="space-around">
-- Element 1.
-- Element 2.
-- Element 3.
   <div>
     <img src="https://i.pinimg.com/564x/83/6e/6b/836e6bdba6666a160138b7bd3d98af17.jpg" width=500/>
   </div>
 </div>
+
+- Element 1.
+- Element 2.
+- Element 3.
 
 <p> Uma breve descrição sobre o que esse projeto faz e para quem ele é </p>
 
