@@ -1,4 +1,8 @@
-### Hi there 👋
+# 🪴 ✧ Presti's Garden ✧
+
+<p> Uma breve descrição sobre o que esse projeto faz e para quem ele é </p>
+
+
 
 <!--
 **prestissimogarden/prestissimogarden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
