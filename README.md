@@ -4,7 +4,10 @@
 
 
 <div align="center">
-  <h1>🪴 ✧ Presti's Garden ✧</h1>
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" />
+    ✧ Presti's Garden ✧
+  </h1>
 </div>
 
 <br>
@@ -13,24 +16,30 @@
 ㅤ♦ 👁️ Interested in blockchain and functional programming; <br>
 <br>
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="32"/>
-  GitHub Stats
-</h2>
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="32"/>
+    GitHub Stats
+  </h2>
+</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)ㅤㅤㅤㅤ
 ![](https://github-readme-stats.vercel.app/api?username=prestissimogarden&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prestissimogarden&theme=dark&hide_border=false)ㅤㅤ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prestissimogarden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
 ![](https://github-profile-trophy.vercel.app/?username=prestissimogarden&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+<br><br>
 
-<h2>
-  <picture>
-    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp">
-    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32">
-  </picture>
-   Technologies
-</h3>
+<div align="center">
+  <h2>
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32">
+    </picture>
+    ✧ Technologies ✧
+  </h2>
+</div>
+
 <br>
 
 <div align="center">
