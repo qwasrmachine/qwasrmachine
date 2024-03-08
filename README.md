@@ -21,7 +21,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)ㅤㅤㅤㅤ
 ![](https://github-readme-stats.vercel.app/api?username=prestissimogarden&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prestissimogarden&theme=dark&hide_border=false)ㅤㅤ
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prestissimogarden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prestissimogarden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
+![](https://github-profile-trophy.vercel.app/?username=prestissimogarden&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 <h2>
   <picture>
