@@ -19,7 +19,7 @@
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="32"/>
-    GitHub Stats
+    ✧ GitHub Stats ✧
   </h2>
 </div>
 
