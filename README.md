@@ -20,7 +20,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)ㅤㅤㅤㅤ
 ![](https://github-readme-stats.vercel.app/api?username=prestissimogarden&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prestissimogarden&theme=dark&hide_border=false)ㅤㅤㅤㅤ
+![](https://github-readme-streak-stats.herokuapp.com/?user=prestissimogarden&theme=dark&hide_border=false)ㅤㅤ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prestissimogarden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2>
