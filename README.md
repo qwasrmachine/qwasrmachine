@@ -12,8 +12,8 @@
 
 <br>
 ㅤ♦ 🧩 Working on problem solving skills; <br>
-ㅤ♦ 🪡 Learning Math, System Design and Operating Systems; <br>
-ㅤ♦ 👁️ Interested in blockchain and functional programming; <br>
+ㅤ♦ 🪡 Learning Blockchain, System Design and Operating Systems; <br>
+ㅤ♦ 👁️ Interested in math and functional programming; <br>
 <br>
 
 <div align="center">
@@ -47,6 +47,9 @@
   <img src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </div>
 
 <!--
