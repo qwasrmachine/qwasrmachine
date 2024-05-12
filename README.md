@@ -11,6 +11,7 @@
 </div>
 
 <br>
+  ♦ 📚 Software Engineering bachelor 5/7; <br>
 ㅤ♦ 🧩 Working on problem solving skills; <br>
 ㅤ♦ 🪡 Learning Blockchain, System Design and Operating Systems; <br>
 ㅤ♦ 👁️ Interested in math and functional programming; <br>
