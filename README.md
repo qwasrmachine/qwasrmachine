@@ -12,7 +12,7 @@
  
 <br>
 ㅤ♦ ✝ Crux <br>
-ㅤ♦ 📚 Software Engineering bachelor 5/7; <br>
+ㅤ♦ 📚 Software Engineering bachelor 6/7; <br>
 ㅤ♦ 🪡 Learning Blockchain, System Design and Operating Systems; <br>
 ㅤ♦ 👁️ Interested in math and functional programming; <br>
 <br>
