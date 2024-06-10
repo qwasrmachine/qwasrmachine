@@ -11,10 +11,10 @@
 </div>
  
 <br>
-ㅤ♦ 🛠️ <b>Current Project: </b> &emsp; 32-bit CPU; <br>
-ㅤ♦ 📚 <b>Degree: </b> &emsp; &emsp; &emsp;&emsp; Software Engineering bachelor 6/7; <br>
-ㅤ♦ 🪡 <b>Current Studying:</b>&nbsp; Blockchain, System Design and Operating Systems; <br>
-ㅤ♦ 👁️ <b>Interested In: </b> &emsp;&emsp; Math and Theoretical Computer Science; <br>
+ㅤ♦ 🛠️ <b>Current Project: </b> &emsp;&emsp; 32-bit CPU; <br>
+ㅤ♦ 📚 <b>Degree: </b> &emsp; &emsp; &emsp;&emsp;&emsp; Software Engineering bachelor 6/7; <br>
+ㅤ♦ 🪡 <b>Current Studying:</b>&nbsp;&emsp; Blockchain, System Design and Operating Systems; <br>
+ㅤ♦ 👁️ <b>Interested In: </b> &emsp;&emsp;&emsp; Math and Theoretical Computer Science; <br>
 <br>
 
 <div align="center">
