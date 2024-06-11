@@ -15,12 +15,10 @@
   ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     ♦ 🛠️ <b>Current Project: </b>
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     32-bit CPU; <br>
   ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     ♦ 📚 <b>Degree: </b>
@@ -31,12 +29,10 @@
   ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     ♦ 🪡 <b>Currently Studying:</b>
     &emsp;&emsp;&emsp;&emsp;&emsp;
     Blockchain, System Design and Operating Systems; <br>
   ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     ♦ 👁️ <b>Interested In: </b>
