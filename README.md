@@ -9,13 +9,42 @@
     ✧ Presti's Garden ✧
   </h1>
 </div>
- 
-<br>
-ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;♦ 🛠️ <b>Current Project: </b> &emsp;&emsp; 32-bit CPU; <br>
-ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;♦ 📚 <b>Degree: </b> &emsp; &emsp; &emsp;&emsp;&emsp; Software Engineering bachelor 6/7; <br>
-ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;♦ 🪡 <b>Current Studying:</b>&nbsp;&emsp; Blockchain, System Design and Operating Systems; <br>
-ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;♦ 👁️ <b>Interested In: </b> &emsp;&emsp;&emsp; Math and Theoretical Computer Science; <br>
-<br>
+
+<samp>
+  <br>
+  ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    ♦ 🛠️ <b>Current Project: </b>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    32-bit CPU; <br>
+  ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    ♦ 📚 <b>Degree: </b>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;
+    Software Engineering bachelor 6/7; <br>
+  ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    ♦ 🪡 <b>Currently Studying:</b>
+    &emsp;&emsp;&emsp;&emsp;&emsp;
+    Blockchain, System Design and Operating Systems; <br>
+  ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    ♦ 👁️ <b>Interested In: </b>
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    &emsp;&emsp;
+    Math and Theoretical Computer Science; <br>
+  <br>
+</samp>
 
 <div align="center">
   <h2>
