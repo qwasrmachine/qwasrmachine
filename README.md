@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/42709c914d328fbb5f00d1493d2c5e6f/15377933dc28169f-12/s500x750/53135f29aa415ebd7b692e3b4e85f63cda0ca1b4.gif" width="350" height="150"/>
+  <img src="https://img.wattpad.com/bc89a6baf5c9fc0e820739d46069481bf513394f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f325577486e647a786341776552673d3d2d3930373333323239362e313631613564616565636333326436653135383438303039383036312e676966" height="350"/>
 </div>
 
 
 <div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" />
-    ✧ Presti's Garden ✧
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bomb.webp" alt="Bomb" width="25" height="25" />
+    ✧ Qwasr Machine ✧
   </h1>
 </div>
 
