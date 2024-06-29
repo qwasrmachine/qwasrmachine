@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.wattpad.com/bc89a6baf5c9fc0e820739d46069481bf513394f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f325577486e647a786341776552673d3d2d3930373333323239362e313631613564616565636333326436653135383438303039383036312e676966" height="350"/>
+  <img src="./ezgif-6-3391bbe1ce.gif" height="350"/>
 </div>
 
 
@@ -49,11 +49,11 @@
   </h2>
 </div>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)ㅤㅤㅤㅤ
-![](https://github-readme-stats.vercel.app/api?username=prestissimogarden&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prestissimogarden&theme=dark&hide_border=false)ㅤㅤ
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prestissimogarden&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
-![](https://github-profile-trophy.vercel.app/?username=prestissimogarden&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)ㅤㅤㅤㅤ
+![](https://github-readme-stats.vercel.app/api?username=qwasrmachine&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=qwasrmachine&theme=gruvbox&hide_border=true)ㅤㅤ
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwasrmachine&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br><br>
+![](https://github-profile-trophy.vercel.app/?username=qwasrmachine&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 <br><br>
 
 <div align="center">
