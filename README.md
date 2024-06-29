@@ -31,7 +31,7 @@
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     ♦ 🪡 <b>Currently Studying:</b>
     &emsp;&emsp;&emsp;&emsp;&emsp;
-    Blockchain, System Design and Operating Systems; <br>
+    Algorithms, System Design and Operating Systems; <br>
   ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
