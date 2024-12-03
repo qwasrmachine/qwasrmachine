@@ -17,7 +17,7 @@
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     ♦ 🛠️ <b>Current Project: </b>
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    32-bit CPU; <br>
+    --; <br>
   ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
