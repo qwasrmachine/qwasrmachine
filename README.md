@@ -25,13 +25,13 @@
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;
-    Software Engineering bachelor 7/7; <br>
+    --; <br>
   ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     ♦ 🪡 <b>Currently Studying:</b>
     &emsp;&emsp;&emsp;&emsp;&emsp;
-    ERPs and POS Systems; <br>
+    --; <br>
   ㅤ&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
