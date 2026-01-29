@@ -50,7 +50,6 @@
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)ㅤㅤㅤㅤ
-[![GitHub Streak](https://streak-stats.demolab.com?user=qwasrmachine&theme=gruvbox&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=qwasrmachine&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=qwasrmachine&theme=gruvbox&hide_border=true)ㅤㅤ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwasrmachine&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br><br>
