@@ -49,7 +49,7 @@
   </h2>
 </div>
 
-<span style="margin: auto"> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox) </span>ㅤㅤㅤㅤ
+<span style="justify-content: center; align-items: center;"> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox) </span>ㅤㅤㅤㅤ
 <!-- ![](https://github-readme-stats.vercel.app/api?username=qwasrmachine&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/>-->
 <span style="margin: auto"> ![](https://github-readme-streak-stats.herokuapp.com/?user=qwasrmachine&theme=gruvbox&hide_border=true) </span>ㅤㅤㅤ 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwasrmachine&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br><br> -->
