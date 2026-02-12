@@ -49,9 +49,9 @@
   </h2>
 </div>
 
-<div style="margin 10px auto"> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox) </div>ㅤㅤㅤㅤ
+<span style="margin 10px auto"> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox) </span>ㅤㅤㅤㅤ
 <!-- ![](https://github-readme-stats.vercel.app/api?username=qwasrmachine&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/> <br/>-->
-<div style="margin 10px auto"> ![](https://github-readme-streak-stats.herokuapp.com/?user=qwasrmachine&theme=gruvbox&hide_border=true) </div>ㅤㅤㅤ 
+<span style="margin 10px auto"> ![](https://github-readme-streak-stats.herokuapp.com/?user=qwasrmachine&theme=gruvbox&hide_border=true) </span>ㅤㅤㅤ 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qwasrmachine&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br><br> -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=qwasrmachine&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4) -->
 <br><br>
